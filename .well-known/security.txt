@@ -1,0 +1,6 @@
+Contact: https://github.com/CryptoHives/Foundation/security/advisories/new
+Contact: mailto:security@cryptohives.org
+Expires: 2027-10-01T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://cryptohives.github.io/.well-known/security.txt
+Policy: https://github.com/CryptoHives/.github/blob/main/SECURITY.md
