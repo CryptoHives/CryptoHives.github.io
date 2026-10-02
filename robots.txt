@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cryptohives.github.io/Foundation/sitemap.xml
